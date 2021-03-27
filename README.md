@@ -2,7 +2,7 @@
 - I'm only fourteen years old,and I'm a student.
 - I love ACG culture,and I want to be a geek,so I took the name Moe-hacker.
 - I'm only a beginner,so don't ask me any questions about programing,I'm afraid I can't answer you.
-- My English is not very good,so I will study hard in order to become a real geek one day.
+- My English is not very good,so I will study hard in order to become a real Geek one day.
 - If there is any mistakes in this article,please tell me.
 - EOF
 <!---
