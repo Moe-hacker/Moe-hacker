@@ -1,4 +1,4 @@
--准备重写
+- 准备重写
 <!---
 Moe-hacker/Moe-hacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
