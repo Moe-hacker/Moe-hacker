@@ -1,5 +1,6 @@
-- 准备重写
-<!---
-Moe-hacker/Moe-hacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Nya~，这里是Moe-hacker。
+- 才不是大佬呢。
+- 本人只是一只萌新。
+- 什么？你说代码？
+- 猫猫什么都不会写呢。
+- 最后，这么可爱，人家当然是蓝孩子了。
