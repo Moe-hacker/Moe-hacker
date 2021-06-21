@@ -1,4 +1,4 @@
-<center>Talk is cheap,show me the code.</center>
+Talk is cheap,show me the code.         
 -------
 
 这里是Moe-hacker,一位热衷于折腾的小萌新。        
