@@ -15,8 +15,8 @@
 - Rebase && Force push is not a good habit, but I love.
 - Use English for programming, 但咱也能听懂中文的说.
 - Learned C, Go and Shell.
-- Anyway, It's very happy to see you.
-- ο(=·ω＜=)☆kira
+- Anyway, I am more than happy to see you~
+- Ciallo ～(∠・ω< )⌒★!
 
 --------
 ## Info:      
