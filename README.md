@@ -14,7 +14,7 @@
 - Moe is /moʊ/, not /mo'e/ !!!
 - Rebase && Force push is not a good habit, but I love.
 - Use English for programming, 但咱也能听懂中文的说.
-- Learned C, Go and Shell.
+- Love the C programming language, GNU C11 user.
 - Anyway, I am more than happy to see you~
 - Ciallo ～(∠・ω< )⌒★!
 
