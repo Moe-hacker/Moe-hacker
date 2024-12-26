@@ -10,7 +10,7 @@
 <p align="center">Hi, here's Moe-hacker desu！</p>
 
 - -1/2 cat (I think so).
-- About 3 y.o. nya~
+- 4 y.o. now nya~
 - Moe is /moʊ/, not /mo'e/ !!!
 - Rebase && Force push is not a good habit, but I love.
 - Use English for programming, 但咱也能听懂中文的说.
