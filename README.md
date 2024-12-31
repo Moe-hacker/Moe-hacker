@@ -31,7 +31,7 @@ EFA3 5F3D 5C27 8995 C790
 --------
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Moe-hacker&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&text_color=fee4d0&title_color=fee4d0&icon_color=fee4d0", width="90%" title="github-readme-stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Moe-hacker&show_icons=true&theme=transparent&hide_border=true&text_color=fee4d0&title_color=fee4d0&icon_color=fee4d0", width="90%" title="github-readme-stats"/>
 </p>
 <p align="center">「笑えない時もあるそれでも信じていたい、</p>
 <p align="center">もう一回繰り返し、</p>
