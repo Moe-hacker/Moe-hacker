@@ -11,12 +11,11 @@
 
 - -1/2 cat (I think so).
 - 4 y.o. now nya~
-- Moe is /moʊ/, not /mo'e/ !!!
-- Rebase && Force push is not a good habit, but I love.
+- Moe is /moʊ/, not /mo'e/ !!!   
 - Use English for programming, 但咱也能听懂中文的说.
 - Love the C programming language, GNU C11 user.
 - Anyway, I am more than happy to see you~
-- Ciallo ～(∠・ω< )⌒★!
+- 「愿此生忠于理性与科学」 | Ciallo ～(∠・ω< )⌒★!
 
 --------
 ## Info:      
