@@ -11,12 +11,12 @@
 
 - -1/2 cat (I think so).
 - 4 y.o. now nya~
+- He/Him, though it's not important.
 - Moe is /moʊ/, not /mo'e/ !!!   
-- Use English for programming, 但咱也能听懂中文的说.
+- Use English for programming, 也能听懂中文的说.
 - Love the C programming language, GNU C11 user.
-- Anyway, I am happy to see you~
+- Anyway, it's happy to see you~
 - 「愿此生忠于理性与科学」 | Ciallo ～(∠・ω< )⌒★!
-- 以及，咱现在叫莫•雷•哈克，正统英文名好吗！！！！！！
 
 --------
 ## Info:      
