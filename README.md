@@ -15,8 +15,9 @@
 - Moe is /moʊ/, not /mo'e/ !!!   
 - Use English for programming, 也能听懂中文的说.
 - Love the C programming language, GNU C11 user.
+- Hobbyist photographer, trying to build a colorful world via Fujifilm Velvia.
 - Anyway, it's happy to see you~
-- 「愿此生忠于理性与科学」 | Ciallo ～(∠・ω< )⌒★!
+- 「愿此生忠于理性与科学」| Ciallo ～(∠・ω< )⌒★!
 
 --------
 ## Info:      
