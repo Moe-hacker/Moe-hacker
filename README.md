@@ -9,7 +9,7 @@
 -------
 <p align="center">Hi, here's Moe-hacker desu！</p>
 
-![](https://img.shields.io/badge/nothing-left-91cffa?style=flat&labelColor=white) ![](https://img.shields.io/badge/mem-unsafe-d00a07?style=flat&labelColor=white) ![](https://img.shields.io/badge/paranoia-inside-ffbf00?style=flat&labelColor=white) 
+![](https://img.shields.io/badge/nothing-left-002fa7?style=flat&labelColor=white) ![](https://img.shields.io/badge/mem-unsafe-d00a07?style=flat&labelColor=white) ![](https://img.shields.io/badge/paranoia-inside-ffbf00?style=flat&labelColor=white) 
 
 - -1/2 cat (I think so).
 - 4 y.o. now nya~
