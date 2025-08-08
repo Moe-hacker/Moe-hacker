@@ -13,7 +13,7 @@
 
 - -1/2 cat (I think so).
 - 4 y.o. now nya~
-- He/Him, though it's not important.
+- Not pass or trains, just a passenger on the train of life.
 - Moe is /moʊ/, not /mo'e/ !!!   
 - Use English for programming, 也能听懂中文的说.
 - Love the C programming language, GNU C11 user.
