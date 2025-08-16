@@ -19,6 +19,7 @@
 - Love the C programming language, GNU C11 user.
 - Hobbyist photographer, trying to build a colorful world via Fujifilm Velvia.
 - Anyway, it's happy to see you~
+- 我们在主观的世界中客观的存在着，在抽象的世界中具体的存在着
 - 「愿此生忠于理性与科学」| Ciallo ～(∠・ω< )⌒★!
 
 --------
