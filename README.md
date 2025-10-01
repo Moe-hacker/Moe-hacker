@@ -13,11 +13,8 @@
 
 - -1/2 cat (I think so).
 - 4 y.o. now nya~
-- Not pass or trans, just a passenger on the train of life.
-- Moe is /moʊ/, not /mo'e/ !!!   
 - Use English for programming, 也能听懂中文的说.
 - Love the C programming language, GNU C11 user.
-- Hobbyist photographer, trying to build a colorful world via Fujifilm Velvia.
 - Anyway, it's happy to see you~
 - 我们在主观的世界中客观的存在着，在抽象的世界中具体的存在着
 - 「愿此生忠于理性与科学」| Ciallo ～(∠・ω< )⌒★!
