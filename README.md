@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/nothing-left-002fa7?style=flat&labelColor=white) ![](https://img.shields.io/badge/memory-unsafe-d00a07?style=flat&labelColor=white) ![](https://img.shields.io/badge/paranoia-inside-ffbf00?style=flat&labelColor=white) 
 
 - -1/2 cat (I think so).
-- 4 y.o. now nya~
+- 5 y.o. adult nya~
 - Use English for programming, 也能听懂中文的说.
 - Love the C programming language, GNU C11 user.
 - Anyway, it's happy to see you~
