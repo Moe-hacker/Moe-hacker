@@ -13,6 +13,7 @@
 
 - -1/2 cat (I think so).
 - 5 y.o. adult nya~
+- “沨鸾” means "鸢飞戾天，鱼跃于渊", the happy ending.
 - Use English for programming, 也能听懂中文的说.
 - Love the C programming language, GNU C11 user.
 - The tail will never wag the cat.    
