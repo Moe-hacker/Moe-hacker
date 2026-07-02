@@ -1,0 +1,31 @@
+- class_name: 友情链接
+  class_desc: 欢迎互关喵～
+  link_list:
+    - name: dpkg123
+      link: https://dpkg123.top/
+      avatar: https://dpkg123.top/favicon.jpg
+      descr: 路漫漫其修远兮，吾将上下而求索
+    - name: Kevin Williams
+      link: https://hugo.utermux.dev
+      avatar: /img/face-kevin_williams.jpg
+      descr: termux开发组成员
+    - name: Molyuu
+      link: https://molyuu.cyou
+      avatar: /img/face-molyuu.jpg
+      descr: Molyuu的博客
+    - name: Pangbai
+      link: https://pangbai.work/
+      avatar: /img/face-pangbai.jpg
+      descr: 记录生活 | 为众人抱薪者,不可使其扼于风雪
+    - name: SuInk
+      link: https://suink.cn
+      avatar: /img/face-suink.jpg
+      descr: 懒得要死的作者(貌似比我还勤快点)
+    - name: Trrrrw
+      link: https://www.trrw.tech
+      avatar: /img/face-Trrrrw.jpg
+      descr: 人与人的羁绊是真正的力量之源
+    - name: AdproのBlog
+      link: https://blog.adproqwq.top
+      avatar: https://cdn.jsdelivr.net/gh/adproqwq/picx-images-hosting@master/avatar.3uusvva7na.jpg
+      descr: Adpro的Blog，可能有有用的东西？
