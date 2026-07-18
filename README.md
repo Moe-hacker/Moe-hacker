@@ -11,10 +11,10 @@
 
 ![](https://img.shields.io/badge/nothing-left-002fa7?style=flat&labelColor=white) ![](https://img.shields.io/badge/memory-unsafe-d00a07?style=flat&labelColor=white) ![](https://img.shields.io/badge/paranoia-inside-ffbf00?style=flat&labelColor=white) 
 
-- -1/2 cat (I think so).
-- 5 y.o. adult nya~
+- -1/2 cat.
+- 5 y.o.
 - “沨鸾” means "鸢飞戾天，鱼跃于渊", the happy ending.
-- Love the C programming language, GNU C11 user.
+- Love C, GNU C11 user.
 - The tail will never wag the cat.    
 - Anyway, it's happy to see you~
 - 我们在主观的世界中客观的存在着，在抽象的世界中具体的存在着
