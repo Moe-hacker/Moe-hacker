@@ -42,4 +42,4 @@ EFA3 5F3D 5C27 8995 C790
 <p align="center">不器用に積み上げて目指す未来手を伸ばした、</p>
 <p align="center">手を伸ばしてみる」</p>
 
-<p align="center">Never Stop Exploring</p>
+<p align="center">May all the beauty be implemented</p>
