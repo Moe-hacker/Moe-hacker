@@ -1,6 +1,5 @@
 <p align="center">Keep moe.</p>
-<p align="center">Keep cool.</p>
-<p align="center">Keep hacking.</p>
+<p align="center">Keep cooking.</p>
 <p align="center">Keep on the side of technology.</p>
 <p align="center">——Talk is cheap,</p>    
 <p align="center">show me your step.</p>    
