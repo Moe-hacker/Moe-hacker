@@ -1,9 +1,6 @@
-<p align="center">Keep moe.</p>
-<p align="center">Keep cooking.</p>
-<p align="center">Keep on the side of technology.</p>
-<p align="center">——Talk is cheap,</p>    
-<p align="center">show me your step.</p>    
-<p align="center">(>_×)</p>
+> If you sit down by the river bank, and wait long enough,
+> the corpses of your enemies float past.
+> --逝者如斯夫，不舍昼夜
 
 -------
 <p align="center">Hi, here's Moe-hacker desu！</p>
