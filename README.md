@@ -10,7 +10,6 @@
 
 - -1/2 cat.
 - 5 y.o.
-- “沨鸾” means "鸢飞戾天，鱼跃于渊", the happy ending.
 - Love C, GNU C11 user.
 - The tail will never wag the cat.    
 - Anyway, it's happy to see you~
